@@ -84,7 +84,7 @@ function App() {
     },
     {
       id: "Other Issues",
-      message: "Let's try our new AI Chatbot which will help you to make a new career. So, click on the below link :- <a>https://mediafiles.botpress.cloud/3d37b6bc-c6a9-46c1-8cb0-3b0e5b9ad578/webchat/bot.htm</a>",
+      message: "Let's try our new AI Chatbot which will help you to make a new career. So, click on the below link: https://mediafiles.botpress.cloud/3d37b6bc-c6a9-46c1-8cb0-3b0e5b9ad578/webchat/bot.html",
       end: true,
     },
   ];
